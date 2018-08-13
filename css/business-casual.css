@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lora';
-  background: linear-gradient(to top left, rgba(66, 244, 238, 0.35), rgba(0,0,0, 0)), url("../img/AwesomeGreenWal.jpg");
+  background: linear-gradient(to top left, rgba(66, 244, 238, 0.8), rgba(0,0,0, 0)), url("../img/mintgreenwall.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
