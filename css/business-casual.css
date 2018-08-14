@@ -256,3 +256,7 @@ p {
 #companyName {
   font-weight: bolder;
 }
+
+#myCarousel {
+  width: 60%;
+}
