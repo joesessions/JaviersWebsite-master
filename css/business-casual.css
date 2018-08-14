@@ -260,9 +260,9 @@ p {
 #myCarousel {
   width: 70%;
   padding-top: 10px;
-  padding-right: 50px;
+  padding-right: 1px;
   padding-bottom: 0px;
-  padding-left: 50px;
+  padding-left: 1px;
   margin: auto;
 }
 
