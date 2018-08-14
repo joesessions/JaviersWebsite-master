@@ -258,15 +258,16 @@ p {
 }
 
 #myCarousel {
-  width: 100%;
+  width: 70%;
   padding-top: 10px;
-  padding-right: 130px;
+  padding-right: 50px;
   padding-bottom: 0px;
-  padding-left: 70px;
+  padding-left: 50px;
+  margin: auto;
 }
 
 .carousel {
-  position: relative;
+  position: center;
 }
 .carousel-inner {
   position: relative;
